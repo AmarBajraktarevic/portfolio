@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #2e2e2e;
+  background-image: 
+    linear-gradient(135deg, transparent 25%, #272727 25%, #2a2a2a 50%, transparent 50%, transparent 75%, #1a1a1a 75%),
+    linear-gradient(225deg, transparent 25%, #272727 25%, #2a2a2a 50%, transparent 50%, transparent 75%, #1a1a1a 75%),
+    radial-gradient(circle at center, #4f6d7a, transparent);
+  background-size: 8000px 3000px; 
+  position: fixed;
+  color: white; 
+  width: 100%;
+  
+}
+
