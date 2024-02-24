@@ -23,11 +23,11 @@ export default function Home({ title, description, tech, direction, span, gradie
   return (
     <>
       <Head>
-        <title>shadow.gg</title>
+        <title>Amar Bajraktarevic | Portfolio </title>
         <link href="https://unpkg.com/pattern.css" rel="stylesheet" />
-        <meta name="description" content="shadow" />
-        <meta property="og:image" content="" />
-        <meta property='theme-color' content='#17171a' />
+        <meta name="description" content="" />
+        <meta property="og:image" content="https://i.imgur.com/thgCHTL.png" />
+        <meta property='theme-color' content='#4f6d7a' />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
