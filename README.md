@@ -1,7 +1,7 @@
 # Portfolio Website
 
 - Made With NextJS, TailwindCSS, and TypeScript
-- Deployed On Vercel
+- Deployed On Vercel https://bajrak.vercel.app
 
 # How to Run 🥇
 - git clone https://github.com/AmarBajraktarevic/portfolio
