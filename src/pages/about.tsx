@@ -67,26 +67,12 @@ export default function Home({ title, description, tech, direction, span, gradie
                                 By sophomore year, I was fully immersed, working on a website for a business idea my friend and I came up with. Now, I've got several websites up and running, all thanks to my love for coding. Feel free to check all of them out
                             </p>
 
-                            <a href='/projects'>
-                                <p className='relative font-leaguespartan text-center text-xl text-text mb-2'>
-
+                            <Link href="/projects">
+                               <p className='relative font-leaguespartan text-center text-xl text-text mb-2'>
                                     here.
                                 </p>
-
-
-                            </a>
-
+                            </Link>
                         </motion.li>
-
-
-
-
-
-
-
-
-
-
 
                     </div>
                 </div>
