@@ -72,9 +72,9 @@ export default function Home({ title, description, tech, direction, span, gradie
                 <a href='https://github.com/AmarBajraktarevic/Write-It' target="_blank" rel="noopener noreferrer" >
                   <img draggable={false} className="rounded-lg border-1 border-accent mb-4 grayscale hover:grayscale-0 duration-300" src='https://raw.githubusercontent.com/AmarBajraktarevic/portfolio/main/proj2.png' alt="Project" />
                 </a>
-                <a href='/'>
+                <a href=''>
                   <h2 className=" text-gray-50 underline font-leaguespartan text-center font-semibold text-4xl">
-                    Write'It
+                    Write&apos;It
                   </h2>
                 </a>
                 <p className="font-leaguespartan text-center text-xl text-text mb-2">
@@ -91,10 +91,10 @@ export default function Home({ title, description, tech, direction, span, gradie
                 transition={{ duration: 0.5, delay: delay, ease: [0.39, 0.21, 0.12, 0.96], }}
                 viewport={{ amount: 0.1, once: true }}
               >
-                <a href='/'>
+                <a href=''>
                   <img draggable={false} className="rounded-lg border-1 border-accent mb-4 grayscale hover:grayscale-0 duration-300" src='https://raw.githubusercontent.com/AmarBajraktarevic/portfolio/main/proj1.png' alt="Project" />
                 </a>
-                <a href='/'>
+                <a href=''>
                   <h2 className=" text-gray-50 underline font-leaguespartan text-center font-semibold text-4xl">
                     News
                   </h2>
