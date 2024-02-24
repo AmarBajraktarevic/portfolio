@@ -15,13 +15,13 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>shadow</title>
-                <link href="https://unpkg.com/pattern.css" rel="stylesheet" />
-                <meta name="description" content="shadow" />
-                <meta property="og:image" content="" />
-                <meta property='theme-color' content='#17171a' />
-                <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <link rel="icon" href="/favicon.ico" />
+              <title>Amar Bajraktarevic | Portfolio </title>
+        <link href="https://unpkg.com/pattern.css" rel="stylesheet" />
+        <meta name="description" content="" />
+        <meta property="og:image" content="https://i.imgur.com/thgCHTL.png" />
+        <meta property='theme-color' content='#4f6d7a' />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/favicon.ico" />
             </Head>
             <main className='flex h-screen flex-col justify-center pattern-grid-lg text-primary overflow-x-hidden'>
                 <div className='max-w-5xl w-full mx-auto'>
